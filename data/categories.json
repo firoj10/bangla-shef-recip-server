@@ -1,34 +1,52 @@
 [
-    {
-        "id": "0",
-        "name": "All News"
-    },
+   
     {
         "id": "1",
-        "name": "Breaking News"
+        "phefpicture": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "chefname": "David miller",
+        "experience": "5 Years",
+        "Numbersofrecipes": 5,
+        "liks": 10
     },
     {
         "id": "2",
-        "name": "Regular News"
+        "phefpicture": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "chefname": "Hardick Pandya",
+        "experience": "10 Years",
+        "Numbersofrecipes": 9,
+        "liks": 10
     },
     {
         "id": "3",
-        "name": "International News"
+        "phefpicture": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "chefname": "Hardick Pandya",
+        "experience": "10 Years",
+        "Numbersofrecipes": 9,
+        "liks": 10
     },
     {
         "id": "4",
-        "name": "Sports"
+        "phefpicture": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "chefname": "Hardick Pandya",
+        "experience": "10 Years",
+        "Numbersofrecipes": 9,
+        "liks": 10
     },
     {
         "id": "5",
-        "name": "Entertainment"
+        "phefpicture": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "chefname": "Hardick Pandya",
+        "experience": "10 Years",
+        "Numbersofrecipes": 9,
+        "liks": 10
     },
     {
         "id": "6",
-        "name": "Culture"
-    },
-    {
-        "id": "7",
-        "name": "Arts"
+        "phefpicture": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "chefname": "Hardick Pandya",
+        "experience": "10 Years",
+        "Numbersofrecipes": 9,
+        "liks": 10
     }
+   
 ]
