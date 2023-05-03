@@ -3,7 +3,7 @@
     {
       "_id": "7f5b80c1cdd4df0111918883eae07349",
       "category_id": "1",
-      "phefpicture": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "phefpicture": "https://i.ibb.co/GTDF9T3/p.jpg",
         "chefname": "Hardick Pandya",
         "recipe_name": {"res1" : "kechury", "res2" : "kechury", "res3" : "kechury"},
         "ingredients": {"ingre1": "alu, dal, morich, peyaj, rice","ingre2": "alu, dal, morich, peyaj, rice","ingre3": "alu, dal, morich, peyaj, rice"},
@@ -24,7 +24,7 @@
     {
       "_id": "17d266b79d2fcd850cd4d983c3aeb95f",
       "category_id": "2",
-       "phefpicture": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+       "phefpicture": "https://i.ibb.co/bj0TrF9/pp.jpg",
         "chefname": "shakil hasan",
         "recipe_name": {"res1" : "kechury", "res2" : "kechury", "res3" : "kechury"},
         "ingredients": {"ingre1": "alu, dal, morich, peyaj, rice","ingre2": "alu, dal, morich, peyaj, rice","ingre3": "alu, dal, morich, peyaj, rice"},
@@ -32,7 +32,7 @@
         "Numbersofrecipes": 9,
         "liks": 10,
       "rating":{"rat1": 4.5, "rat2": 5.0,"rat3": 3.5 },
-      "recep_image": {"recepe1": "https://i.ibb.co/6Dk6Lw0/4.jpg", "recepe2": "https://i.ibb.co/tCLpf82/3.jpg","recepe3": "https://i.ibb.co/tCLpf82/3.jpg"},
+      "recep_image": {"recepe1": "https://i.ibb.co/LnwZcbN/d.jpg", "recepe2": "https://i.ibb.co/1LGdpc1/e.jpg","recepe3": "https://i.ibb.co/QNYNpx9/f.jpg"},
       "published_date": "2022-08-24 18:00:00",
       "cooking_method": {
         "cok_met1": "  announced Wednesday that he is sending $2.98 billion US in new..President Joe Biden. read full story",
@@ -46,7 +46,7 @@
     {
       "_id": "61f9ce168f7b15aadecb1d1fc80c72f0",
       "category_id": "3",
-       "phefpicture": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+       "phefpicture": "https://i.ibb.co/pW9VWZr/ppp.jpg",
         "chefname": "shuvo roy",
         "recipe_name": {"res1" : "kechury", "res2" : "kechury", "res3" : "kechury"},
         "ingredients": {"ingre1": "alu, dal, morich, peyaj, rice","ingre2": "alu, dal, morich, peyaj, rice","ingre3": "alu, dal, morich, peyaj, rice"},
@@ -54,7 +54,7 @@
         "Numbersofrecipes": 9,
         "liks": 10,
       "rating":{"rat1": 4.5, "rat2": 5.0,"rat3": 3.5 },
-      "recep_image": {"recepe1": "https://i.ibb.co/SJ0yL1Z/1.jpg", "recepe2": "https://i.ibb.co/6Dk6Lw0/4.jpg","recepe3": "https://i.ibb.co/SJ0yL1Z/1.jpg"},
+      "recep_image": {"recepe1": "https://i.ibb.co/mDCLqQV/g.jpg", "recepe2": "https://i.ibb.co/QNYNpx9/f.jpg","recepe3": "https://i.ibb.co/SJ0yL1Z/1.jpg"},
       "published_date": "2022-08-24 18:00:00",
       "cooking_method": {
         "cok_met1": "  announced Wednesday that he is sending $2.98 billion US in new..President Joe Biden. read full story", 
@@ -67,7 +67,7 @@
     {
       "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
       "category_id": "4",
-       "phefpicture": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+       "phefpicture": "https://i.ibb.co/dfkR4D5/z.jpg",
         "chefname": "Karim benjema",
         "recipe_name": {"res1" : "kechury", "res2" : "kechury", "res3" : "kechury"},
         "ingredients": {"ingre1": "alu, dal, morich, peyaj, rice","ingre2": "alu, dal, morich, peyaj, rice","ingre3": "alu, dal, morich, peyaj, rice"},
@@ -75,7 +75,7 @@
         "Numbersofrecipes": 9,
         "liks": 10,
       "rating":{"rat1": 4.5, "rat2": 5.0,"rat3": 3.5 },
-      "recep_image": {"recepe1": "https://i.ibb.co/SJ0yL1Z/1.jpg", "recepe2": "https://i.ibb.co/6Dk6Lw0/4.jpg","recepe3": "https://i.ibb.co/SJ0yL1Z/1.jpg"},
+      "recep_image": {"recepe1": "https://i.ibb.co/SvbjhnS/h.jpg", "recepe2": "https://i.ibb.co/6Dk6Lw0/4.jpg","recepe3": "https://i.ibb.co/HPW6n7F/a.jpg"},
       "published_date": "2022-08-24 18:00:00",
       "cooking_method": {
         "cok_met1": "  announced Wednesday that he is sending $2.98 billion US in new..President Joe Biden. read full story",
@@ -88,7 +88,7 @@
     {
       "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
       "category_id": "5",
-       "phefpicture": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+       "phefpicture": " https://i.ibb.co/LtSYGg1/x.jpg",
         "chefname": "Messy",
         "recipe_name": {"res1" : "kechury", "res2" : "kechury", "res3" : "kechury"},
         "ingredients": {"ingre1": "alu, dal, morich, peyaj, rice","ingre2": "alu, dal, morich, peyaj, rice","ingre3": "alu, dal, morich, peyaj, rice"},
@@ -96,7 +96,7 @@
         "Numbersofrecipes": 9,
         "liks": 10,
       "rating":{"rat1": 4.5, "rat2": 5.0,"rat3": 3.5 },
-      "recep_image": {"recepe1": "https://i.ibb.co/SJ0yL1Z/1.jpg", "recepe2": "https://i.ibb.co/6Dk6Lw0/4.jpg","recepe3": "https://i.ibb.co/SJ0yL1Z/1.jpg"},
+      "recep_image": {"recepe1": "https://i.ibb.co/FBvxpDD/food.jpg", "recepe2": "https://i.ibb.co/0ZnctLd/b.jpg","recepe3": "https://i.ibb.co/J2Mmc0T/cc.jpg"},
       "published_date": "2022-08-24 18:00:00",
       "cooking_method": {
         "cok_met1": "  announced Wednesday that he is sending $2.98 billion US in new..President Joe Biden. read full story", 
@@ -108,7 +108,7 @@
     {
       "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
       "category_id": "6",
-       "phefpicture": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+       "phefpicture": "https://i.ibb.co/W3KbvSZ/c.jpg",
         "chefname": "Rolando",
         "recipe_name": {"res1" : "kechury", "res2" : "kechury", "res3" : "kechury"},
         "ingredients": {"ingre1": "alu, dal, morich, peyaj, rice","ingre2": "alu, dal, morich, peyaj, rice","ingre3": "alu, dal, morich, peyaj, rice"},
@@ -116,7 +116,7 @@
         "Numbersofrecipes": 9,
         "liks": 10,
       "rating":{"rat1": 4.5, "rat2": 5.0,"rat3": 3.5 },
-      "recep_image": {"recepe1": "https://i.ibb.co/SJ0yL1Z/1.jpg", "recepe2": "https://i.ibb.co/6Dk6Lw0/4.jpg","recepe3": "https://i.ibb.co/SJ0yL1Z/1.jpg"},
+      "recep_image": {"recepe1": "https://i.ibb.co/VBvkxTY/bg-3.png", "recepe2": "https://i.ibb.co/0ZnctLd/b.jpg","recepe3": "https://i.ibb.co/FBvxpDD/food.jpg"},
       "published_date": "2022-08-24 18:00:00",
       "cooking_method":
        {"cok_met1": "  announced Wednesday that he is sending $2.98 billion US in new..President Joe Biden. read full story", 
@@ -128,3 +128,5 @@
     }
 
   ]
+
+ 
