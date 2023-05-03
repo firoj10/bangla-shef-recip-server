@@ -6,7 +6,7 @@
         "chefname": "David miller",
         "experience": "5 Years",
         "Numbersofrecipes": 5,
-        "liks": 10
+        "liks": "12K"
     },
     {
         "id": "2",
@@ -14,7 +14,7 @@
         "chefname": "Hardick Pandya",
         "experience": "10 Years",
         "Numbersofrecipes": 9,
-        "liks": 10
+        "liks": "10k"
     },
     {
         "id": "3",
@@ -22,7 +22,7 @@
         "chefname": "Hardick Pandya",
         "experience": "10 Years",
         "Numbersofrecipes": 9,
-        "liks": 10
+        "liks": "80k"
     },
     {
         "id": "4",
@@ -30,7 +30,7 @@
         "chefname": "Hardick Pandya",
         "experience": "10 Years",
         "Numbersofrecipes": 9,
-        "liks": 10
+        "liks": "100k"
     },
     {
         "id": "5",
@@ -38,7 +38,7 @@
         "chefname": "Hardick Pandya",
         "experience": "10 Years",
         "Numbersofrecipes": 9,
-        "liks": 10
+        "liks": "10k"
     },
     {
         "id": "6",
@@ -46,7 +46,7 @@
         "chefname": "Hardick Pandya",
         "experience": "10 Years",
         "Numbersofrecipes": 9,
-        "liks": 10
+        "liks": "14K"
     }
    
 ]
