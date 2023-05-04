@@ -89,7 +89,7 @@
       "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
       "category_id": "5",
        "phefpicture": " https://i.ibb.co/LtSYGg1/x.jpg",
-        "chefname": "Messy",
+        "chefname": "Messy dk",
         "recipe_name": {"res1" : "Vegetable Pakora", "res2" : "Cholar Pulao", "res3" : "Chicken Curry"},
         "ingredients": {"ingre1": "Peas, Snap Sugar ,Peas ,Snow Peas, Anaheim Peppers, Sweet peppers","ingre2": "Aubergene (eggplant) ,Avocado Beet,Bok Choy","ingre3": "Lettuce ,Endive Lettuce ,Green and, Red"},
         "experience": "10 Years",
@@ -100,7 +100,7 @@
       "published_date": "2022-08-24 18:00:00",
       "cooking_method": {
         "cok_met1": "  Evenly and thoroughly coat your chicken by creating a mini assembly line for yourself. Place flour and breadcrumbs on two separate large plates", 
-        "cok_met2": "chicken between two sheets of plastic wrap or lay them flat inside a resealable plastic blag. Using the bottom of a heavy pan, flat meat mallet, or even a rolling pin, pound ",
+        "cok_met2": "chicken between two sheets of plastic  or lay them flat inside a resealable plastic blag. Using the bottom of a heavy pan, flat meat mallet, or even a rolling pin, pound ",
         "cok_met3": "one hand for the wet steps and one hand for the dry — coat the chicken" },
     "description":" North Carolina. With 13 years of experience as well as a degree from the Culinary Academy of New York, he is an established name in the culinary world. is the head chef at Dhaka in London. Her resume is impressive and includes stints with some of the most prestigious chefs in the country. Her creative take on European classics make her an indispensable member of the restaurant’s staffChef name) is the executive chef at (Restaurant name), a popular sushi bar and restaurant in Seattle. With an unparalleled ability to craft amazing rolls, sushi dishes, and sashimi, he has become one of the most sought-after sushi chefs in the Pacific Northwest"
 
@@ -109,7 +109,7 @@
       "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
       "category_id": "6",
        "phefpicture": "https://i.ibb.co/W3KbvSZ/c.jpg",
-        "chefname": "Rolando",
+        "chefname": "Mr Rolando",
         "recipe_name": {"res1" : "Panch Phoron", "res2" : "Alu bhorta", "res3" : "Peyaj koli bhaji"},
         "ingredients": {"ingre1": "Jicama, Kale, Kohlrabi, Leeks","ingre2": "Peas, Snap Sugar ,Peas Snow Peas ,Anaheim Peppers, Sweet peppers","ingre3": "Okra ,Onions ,Green ,Onions ,Parsn"},
         "experience": "10 Years",
