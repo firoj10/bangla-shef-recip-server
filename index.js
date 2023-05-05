@@ -11,7 +11,7 @@ const food= require('./data/food.json');
 app.use(cors());
 
 app.get('/', (req, res) =>{
-    res.send('Dragon is running')
+    res.send('server is running')
 });
 
 app.get('/food', (req, res) =>{
@@ -22,17 +22,19 @@ app.get('/categories', (req, res) =>{
     console.log(categories);
     res.send(categories);
 })
+ 
+
 
 
 app.get('/categories/:id', (req, res) =>{
     const id = parseInt(req.params.id);
    console.log(id);
-   const categoryNews = food.filter(n=> parseInt(n.category_id) === id);
-   res.send(categoryNews)
+   const categoryChef = food.filter(n=> parseInt(n.category_id) === id);
+   res.send(categoryChef)
 
 });
 
 
 app.listen(port, () => {
-    console.log(`Dragon API is running on port: ${port}`)
+    console.log(`server API is running on port: ${port}`)
 })
